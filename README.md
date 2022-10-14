@@ -1,7 +1,7 @@
 # Client-Server
 使用Python透過Socket連線讓Server和Client建立溝通並傳送訊息
 
-Server:
+Server:  
 使不間斷聆聽  
 建立socket，socket指定某個可用位址(IP/Port)  
 設定最大連接數  
